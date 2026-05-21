@@ -1,4 +1,4 @@
-# Flareye API
+# Microservices Platform
 
 > **This repository is archived.** Development has stopped. The code is available for reference and learning.
 
